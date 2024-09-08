@@ -1,4 +1,4 @@
-#Created on Sun May 16 2020
+#Created on Sun May 16, 2020
 
 import smtplib
 from getpass import getpass
